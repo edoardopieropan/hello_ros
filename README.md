@@ -1,6 +1,8 @@
 # ros_repository
 Laboratorio Ciberfisico UniVR
 
+![laboratorio ciberfisico](images/cyberphysical-lab.jpg)
+
 ## Getting Started
 
 ### Prerequisites
