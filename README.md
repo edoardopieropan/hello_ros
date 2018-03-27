@@ -11,7 +11,7 @@ You need [ROS Kinetic](http://wiki.ros.org/kinetic/Installation) installed and w
 
 ### Try it
 
-You can try it by calling on a terminal
+You can try it by calling on a terminal <br >
 note: hello_ros is the package's name
 
 ```
