@@ -12,25 +12,10 @@ You need [ROS Kinetic](http://wiki.ros.org/kinetic/Installation) installed and w
 ### Try it
 
 You can try it by calling on a terminal
+note: hello_ros is the package's name
 
 ```
-roscore
-```
-and on three terminals run
-
-note: hello_ros is the package's name in this case
-
-
-```
-rosrun hello_ros talker.cpp
-```
-
-```
-rosrun hello_ros listener.cpp
-```
-
-```
-rosrun hello_ros ten.cpp
+roslaunch hello_ros launch_file.launch
 ```
 
 You will se that all the packages sended by 'talker' are seen by 'listener'. Every 10 packages received, listener  will send a message to ten.
