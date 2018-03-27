@@ -22,7 +22,8 @@ You will se that all the packages sended by 'talker' are seen by 'listener'. Eve
 
 ## License
 
-This file is part of hello_ros and it is distributed under the terms of the GNU Lesser General Public License (Lesser GPL)
+This file is part of hello_ros and it is distributed under the terms of the GNU Lesser General Public License (Lesser GPL) <br >
+Visit <http://www.gnu.org/licenses/>
 
 ## References
 
