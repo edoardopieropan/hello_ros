@@ -28,6 +28,6 @@ Visit <http://www.gnu.org/licenses/>
 ## References
 
 ***Laboratorio Ciberfisico*** <br >
-Robot Programming with ROS <br >
+[Robot Programming with ROS](http://profs.scienze.univr.it/%7Ebloisi/corsi/ciberfisico.html) <br >
 A.Y. 2017/2018 <br >
 University of Verona (Italy)
